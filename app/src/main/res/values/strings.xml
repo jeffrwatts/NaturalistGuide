@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Naturalist Guide</string>
+    <string name="sea_life">Sea Life</string>
+    <string name="birds">Birds</string>
+</resources>
